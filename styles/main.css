@@ -190,22 +190,6 @@ div.collapsed {
 	width: 64px;
 }
 
-div.view {
-	flex: 1;
-	border-right: 1px solid #eeeeee;
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	font-size: 72px;
-	text-transform: uppercase;
-	color: #eeeeee;
-	cursor: pointer;
-}
-
-div.view:last-child {
-	border-right: inherit;
-}
-
 div.action-floating {
 	position: absolute;
 	right: 32px;
